@@ -16,12 +16,25 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.9.1",
+    "@docusaurus/plugin-ideal-image": "^3.9.1",
     "@docusaurus/preset-classic": "3.9.1",
+    "@docusaurus/remark-plugin-npm2yarn": "^3.9.1",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.0",
+    "@iconify/react": "^6.0.2",
     "@mdx-js/react": "^3.0.0",
+    "@types/mdast": "^4.0.4",
+    "@types/unist": "^3.0.3",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-loadable-ssr-addon-v5-slorber": "^1.0.1",
+    "remark": "^15.0.1",
+    "remark-directive": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.1",
