@@ -112,8 +112,14 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/klvdoc.png',
     metadata: [
+      { property: 'og:title', content: 'Kelvin Aerospace Lab Doc' },
       { name: 'og:image', content: '/img/klvdoc.png' },
       { name: 'twitter:image', content: '/img/klvdoc.png' },
+      { property: 'og:description', content: 'Documentation Platform for Kelvin Aerospace Lab' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:title', content: 'Kelvin Aerospace Lab Documentation' },
+      { name: 'twitter:description', content: 'Documentation Platform for Kelvin Aerospace Lab' },
+      { name: 'description', content: 'Documentation Platform for Kelvin Aerospace Lab' },
     ],
     colorMode: {
       respectPrefersColorScheme: true,
