@@ -4,6 +4,95 @@
  * work well for content-centric websites.
  */
 
+/* Smooth scrolling behavior */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--ifm-navbar-height) + 1rem);
+}
+
+/* Table of contents styles */
+.table-of-contents {
+  position: sticky;
+  top: 2rem;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--ifm-color-emphasis-300) transparent;
+}
+
+/* Custom scrollbar for Webkit browsers */
+.table-of-contents::-webkit-scrollbar {
+  width: 4px;
+}
+
+.table-of-contents::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.table-of-contents::-webkit-scrollbar-thumb {
+  background-color: var(--ifm-color-emphasis-300);
+  border-radius: 4px;
+}
+
+.table-of-contents__link {
+  display: block;
+  padding: 0.4rem 1rem 0.4rem 0.8rem;
+  margin: 0.1rem 0;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+  color: var(--ifm-toc-link-color);
+  font-size: 0.9em;
+  line-height: 1.4;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Animated underline effect */
+.table-of-contents__link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--ifm-color-primary);
+  transition: width 0.3s ease;
+}
+
+.table-of-contents__link:hover::after,
+.table-of-contents__link:focus::after {
+  width: 100%;
+}
+
+/* Active state */
+.table-of-contents__link--active {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+  background: var(--ifm-menu-color-background-active);
+  transform: translateX(4px);
+}
+
+/* Add a subtle pulse animation for the active item */
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(var(--ifm-color-primary-rgb), 0.2); }
+  70% { box-shadow: 0 0 0 6px rgba(var(--ifm-color-primary-rgb), 0); }
+  100% { box-shadow: 0 0 0 0 rgba(var(--ifm-color-primary-rgb), 0); }
+}
+
+.table-of-contents__link--active {
+  animation: pulse 1.5s ease-in-out;
+}
+
+/* Smooth scroll target with offset for fixed header */
+:target::before {
+  content: '';
+  display: block;
+  height: calc(var(--ifm-navbar-height) + 1rem);
+  margin-top: calc(-1 * var(--ifm-navbar-height) - 1rem);
+  pointer-events: none;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary-lightest: #c04a35;
@@ -15,6 +104,7 @@
   --ifm-color-primary-darkest: #68281d;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-toc-link-color: var(--ifm-color-emphasis-700);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -26,4 +116,50 @@
   --ifm-color-primary-dark: #853325;
   --ifm-color-primary-darker: #7e3023;
   --ifm-color-primary-darkest: #68281d;
+}
+
+/* Reduce footer height */
+.footer {
+  --ifm-footer-padding-vertical: 1rem;
+  --ifm-footer-padding-horizontal: 0;
+  padding: var(--ifm-footer-padding-vertical) var(--ifm-footer-padding-horizontal);
+}
+
+.footer__copyright {
+  font-size: 0.9em;
+  margin-top: 0.5rem;
+}
+
+/* GitHub icon styles */
+.navbar__item.navbar__link[aria-label='GitHub repository'] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  opacity: 0.8;
+  transition: all var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+}
+
+.navbar__item.navbar__link[aria-label='GitHub repository']:hover {
+  opacity: 1;
+  background: none;
+}
+
+/* Light mode GitHub icon color */
+.navbar__item.navbar__link[aria-label='GitHub repository'] svg path {
+  fill: var(--ifm-color-primary);
+}
+
+/* Dark mode GitHub icon color */
+[data-theme='dark'] .navbar__item.navbar__link[aria-label='GitHub repository'] svg path {
+  fill: var(--ifm-color-primary-light);
+}
+
+/* Hover effect */
+.navbar__item.navbar__link[aria-label='GitHub repository']:hover svg path {
+  fill: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] .navbar__item.navbar__link[aria-label='GitHub repository']:hover svg path {
+  fill: var(--ifm-color-primary-lighter);
 }
