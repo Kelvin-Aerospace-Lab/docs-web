@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theo/Theos awesomeness.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theos awesomeness"
+              "title": "index"
+            }
+          },
+          {
+            "id": "8028328553edbdd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,9 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "63de46d28cbb87d1",
+  "active": "8028328553edbdd6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "index.md",
+    "Test.md",
     "Theo/Theos awesomeness.md",
     "intro.md",
     "Test file.md"
