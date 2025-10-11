@@ -22,7 +22,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "f4420fa92d3e73a1",
+=======
+            "id": "0d2040a885721a76",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,11 +189,18 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "f4420fa92d3e73a1",
   "lastOpenFiles": [
     "index.md",
     "Software notes.md",
     "Test.md",
+=======
+  "active": "0d2040a885721a76",
+  "lastOpenFiles": [
+    "index.md",
+    "Software notes.md",
+>>>>>>> Stashed changes
     "Theio.md",
     "image2.md",
     "Theo/Theos awesomeness.md",
