@@ -15,10 +15,11 @@ Explore our documentation to learn more about our work and how to get involved.
 
 ## Documentation Topics
 
-- [About Us](./about) - Learn more about Kelvin Aerospace Lab
-- [Projects](./projects) - Explore our ongoing projects
-- [Guides](./guides) - Guides and tutorials
-- [Resources](./resources) - Resources documentation
+- [About Us](./General/About) - Learn more about Kelvin Aerospace Lab
+- [Projects](./Projects) - Explore our ongoing projects
+- [Guides](./Guides) - Guides and tutorials
+- [Rocket Engine Design](./category/rocket-engine-design) - Learn more about Rocket Engine Design
+- [Resources](./Resources) - Resources documentation
 
 ## Contact
 

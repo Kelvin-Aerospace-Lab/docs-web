@@ -4,6 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 import remarkParse from 'remark-parse';
 import { unified } from 'unified';
 import { visit } from 'unist-util-visit';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -17,6 +19,17 @@ const config: Config = {
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
+
+  // Add KaTeX stylesheet for math rendering
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
+  ],
 
   // Set the production url of your site here
   url: 'https://docs.kelvinaero.org/',
@@ -56,6 +69,16 @@ const config: Config = {
           editUrl: 'https://github.com/Kelvin-Aerospace-Lab/docs-web',
           // Auto-generate document IDs from filenames
           id: 'default',
+          // Add math support
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [[rehypeKatex, { 
+            strict: false,  // Allow non-standard LaTeX
+            trust: true,    // Trust the input
+            throwOnError: false  // Don't throw on errors
+          }]],
+          // Make MDX less strict - treat files more like regular Markdown
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
           // Custom sidebar items generator to respect frontmatter order
           sidebarItemsGenerator: async ({
             defaultSidebarItemsGenerator,
