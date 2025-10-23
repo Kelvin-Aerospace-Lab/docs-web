@@ -3,6 +3,7 @@ title: Software for Collaboration, Coding and Notes
 slug: /software/
 sidebar_position: 2
 date: 2025-10-12
+draft: "true"
 ---
 ![KLVDoc](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F0*IcE9q06m22iF-t29&f=1&nofb=1&ipt=71e064477ccf918b639a7398c0c881fa12acbe80b111c9ebd063045bd108f996)
 

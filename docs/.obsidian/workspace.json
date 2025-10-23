@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/About Us.md",
+                "file": "General/Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Us"
+              "title": "Statistics"
             }
           }
         ]
@@ -169,8 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "01d8762c75964b9f",
+  "active": "90dbb62202e06ec5",
   "lastOpenFiles": [
+    "General/About Us.md",
+    "General/Statistics.md",
+    "Projects/v1.0 Standard Kit Prototype/Electronics/Software notes.md",
+    "Projects/v1.0 Standard Kit Prototype/Electronics/_category_.json",
+    "Projects/v1.0 Standard Kit Prototype/_category_.json",
+    "index.md",
+    "Projects/v1.0 Standard Kit Prototype/Untitled.md",
+    "Projects/v1.0 Standard Kit Prototype/Electronics",
+    "Projects/v1.0 Standard Kit Prototype",
+    "Projects/Standard Kit Prototype/Electronics/Software notes.md",
+    "Projects/Standard Kit Prototype/Electronics/_category_.json",
+    "Projects/Standard Kit Prototype/_category_.json",
+    "Projects/Standard Kit Prototype/Software notes.md",
+    "Projects/Standard Kit Prototype/Electronics",
+    "Projects/Standard Kit Prototype",
     "Control System Design",
     "Rocket Engine Design/Part I/1.1_THE_GENERATION_OF_THRUST_BY_A_ROCKET_ENGINE.md",
     "Rocket Engine Design/Part I/1.2_THE_GAS-FLOW_PROCESSES_IN_THE_COMBUSTION_CHAMBER_AND_THE_NOZZLE.md",
@@ -190,22 +205,6 @@
     "Rocket Engine Design/Part IV/4.1_THE_BASIC_THRUST_CHAMBER_ELEMENTS.md",
     "Rocket Engine Design/Part IV/4.2_THRUST_CHAMBER_PERFORMANCE_PARAMETERS.md",
     "Rocket Engine Design/Part IV/4.3_THRUST_CHAMBER_CONFIGURATION_LAYOUT.md",
-    "Rocket Engine Design/Part IV/4.4_THRUST_CHAMBER_COOLING.md",
-    "Rocket Engine Design/Part IV/4.5_INJECTOR_DESIGN.md",
-    "Rocket Engine Design/Part IV/4.6_GAS-GENERATING_DEVICES.md",
-    "Rocket Engine Design/Part IV/4.7_IGNITION_DEVICES.md",
-    "Rocket Engine Design/Part IV/4.8_COMBUSTION_INSTABILITY.md",
-    "Rocket Engine Design/Part IX/9.1_THE_PRINCIPAL_INTERCONNECTING_COMPONENTS_AND_MOUNTS.md",
-    "Rocket Engine Design/Part IX/9.2_DESIGN_OF_TUBINGS_AND_TUBE_FITTINGS.md",
-    "Projects/_category_.json",
-    "General/_category_.json",
-    "Projects",
-    "Rocket Engine Design/Part XI/_category_.json",
-    "Rocket Engine Design/Part X/_category_.json",
-    "Rocket Engine Design/Part VIII/_category_.json",
-    "Rocket Engine Design/Part VII/_category_.json",
-    "Rocket Engine Design/Part VI/_category_.json",
-    "Rocket Engine Design/Part V/_category_.json",
-    "Rocket Engine Design/Part IX/_category_.json"
+    "Projects/_category_.json"
   ]
 }
