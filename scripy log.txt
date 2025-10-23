@@ -1,0 +1,802 @@
+PS D:\Github Doc\docs-web> powershell -ExecutionPolicy Bypass -File fix-math-issues.ps1
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+ 
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow 
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+The -ireplace operator allows only two elements to follow     
+it, not 4.
+At D:\Github Doc\docs-web\fix-math-issues.ps1:9 char:25       
++     $content = $content -replace '(\[\^\d+\])\$\$', '$1' +  
+"`n`n" + ' ...
++                         ~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Obje  
+   ct[]:Object[]) [], RuntimeException
+    + FullyQualifiedErrorId : BadReplaceArgument
+
+Done! Math issues have been fixed.
