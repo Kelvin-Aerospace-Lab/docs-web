@@ -3,8 +3,5 @@
   publish = "build"
 
 [build.environment]
-  NODE_OPTIONS = "--max-old-space-size=4096"
+  NODE_OPTIONS = "--max-old-space-size=8192"
   NODE_VERSION = "20"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
