@@ -16,10 +16,9 @@ Explore our documentation to learn more about our work and how to get involved.
 ## Documentation Topics
 
 - [About Us](./General/About) - Learn more about Kelvin Aerospace Lab
-- [Projects](./Projects) - Explore our ongoing projects
-- [Guides](./Guides) - Guides and tutorials
+- [Software](https://github.com/Kelvin-Aerospace-Lab/Rocket-analysis) - Explore our software
+- [Policies](./category/policies) - Read our policies
 - [Rocket Engine Design](./category/rocket-engine-design) - Learn more about Rocket Engine Design
-- [Resources](./Resources) - Resources documentation
 
 ## Contact
 
