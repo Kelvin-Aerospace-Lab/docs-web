@@ -8,18 +8,17 @@ date: 2025-10-22
 ![KAL](https://www.kelvinaero.org/images/klvweb.png)
 
 
-## 1. EXECUTIVE SUMMARY
+## 1. OVERVIEW
 
 Kelvin Aerospace Lab (KAL) is a non-profit student-led organization founded in September 2025 dedicated to inspiring students' interest and curiosity in the fields of engineering, providing practical engineering opportunities through liquid rocket development, and advancing STEM accessibility in underserved communities. 
 
+Our initial question was: since engineering is a practice-based discipline, what is the best way to develop engineering skills? The answer is obvious: solving problems in real engineering practice. Therefore, we believe that activities like robotics competitions are not a suitable choice. While robotics competitions offer valuable experience, they operate within established frameworks with predictable outcomes. So we founded KAL. KAL’s approach is fundamentally different. Development requires students to work with theory, design, simulation, control, manufacturing, and testing, where solutions are not predetermined. The level of complexity mirrors what engineers face in industry, providing participators with irreplaceable experience in problem-solving.
 
-We believe that while robotics competitions offer valuable experience, they operate within established frameworks with predictable outcomes. KAL’s approach is fundamentally different. Development requires students to work with theory, design, simulation, control, manufacturing, and testing, where solutions are not predetermined. The level of complexity mirrors what engineers face in industry, providing students with irreplaceable experience in problem-solving.
-
-Since our founding in September 2025, we have established a complete organizational infrastructure including a website for public outreach, a documentation platform for technical knowledge sharing, GitHub organizations for software tools and version control, and project management systems to track progress. We've completed computational analyses for a 200-Newton thrust engine, validated designs through ANSYS transient simulations, prototyped the scaled version of pintle injector, developed custom calculation software, and finalized test bench design and propellant feed systems. 
+Since our founding in September 2025, we have established a complete organizational infrastructure including a website for public outreach, a documentation platform for technical knowledge sharing, GitHub organizations for software tools and version control, and project management systems to track progress. In project itself, we've completed computational analyses for a 200-Newton thrust engine, validated designs through ANSYS transient simulations, prototyped the scaled version of pintle injector, developed custom calculation software, and finished test bench design and propellant feed systems. 
 
 Our operation comprises 2 pillars: Engineering innovation develops rocket propulsion systems for educational and competition use, and Social support channels resources to schools lacking STEM programs through equipment donations, funding, software tools and documentation.
 
-We are seeking sponsorship and partnership to accelerate our current development phase, and enable us to achieve our subsequent goals. By improving our technological level and expanding our charitable reach, more students will have access to STEM education, and more ideas will be realized. To support the sustainable model, accessible resources are indispensable, especially for creating pathways for underrepresented communities to participate in the rapidly evolving technological field.
+We are seeking sponsorship and partnership to accelerate our current development phase, and enable us to achieve our subsequent goals. By improving our technological level and expanding our charitable reach, more students will have access to STEM education, and more ideas will be realized.Clearly accessible resources are indispensable to support this sustainable model, especially for creating pathways for underrepresented communities to participate in the rapidly evolving technological field.
 
 
 ---
@@ -29,13 +28,13 @@ We are seeking sponsorship and partnership to accelerate our current development
 We envision aerospace engineering moving beyond corporate research facilities and making it accessible to motivated students eager for real-world engineering challenges. Exposing students to the complexities and uncertainties like liquid rocket propulsion is a good approach, helping students gain an overview of thermodynamics, fluid mechanics, control systems, electronics, and mechanical design.
 
 Beyond being direct participants, we aspire for KAL to be a catalyst for STEM education accessibility. The rapid advancements in artificial intelligence and automation are accelerating technological change at an unprecedented pace, making early STEM education more crucial than ever.
-We believe that STEM education and resources should be an important part of the future of basic education; therefore, a portion of future revenue funds this charitable mission, ensuring sustainability.
+We believe that STEM education and resources should be an important part of the future of basic education; therefore, a portion of future revenue funds this charitable mission.
 
-## 3. PROBLEM STATEMENT & OPPORTUNITY
+## 3. WHY
 
 ### The Educational Gap in Hands-On Engineering
 
-Modern STEM education at the secondary level faces a paradox: while theoretical content has become more advanced and accessible through online resources, opportunities for authentic hands-on engineering have become scarcer. Students can easily watch lectures from world-class researchers, yet rarely encounter the messiness of real engineering—the calculations and simulations that don’t initially converge, the prototypes that fail in unexpected ways, and the design for handling the coupling between multiple physical quantities. 
+Modern STEM education at the secondary level faces a paradox: while theoretical content has become more advanced and accessible through online resources, opportunities for authentic hands-on engineering have become scarcer. Students can easily watch lectures from world-class researchers, yet rarely encounter the messiness of real engineering, either the calculations and simulations that don’t initially converge, the prototypes that fail in unexpected ways, or the design for handling the coupling between multiple physical quantities. 
 
 While traditional student engineering competitions are valuable, they are often conducted within a predetermined framework, limiting the scope of the problem. Robotics competitions provide a parts list, rules, and clearly defined objectives. Rocket competitions typically focus on solid rocket motors or commercially available engines with known performance characteristics. These structured environments can teach a large number of important skills, but they are fundamentally different from professional engineering practice. In professional engineering practice, requirements are often vague, solutions are uncertain, and success requires integrating knowledge from multiple disciplines, without a pre-defined path.
 
@@ -49,11 +48,11 @@ It is precisely because engineering is a discipline that heavily relies on pract
 
 ### Market and Social Opportunity
 
-The STEM education market has grown substantially as awareness of skills gaps in engineering and technology has increased. Schools actively seek programs that provide authentic hands-on experience, however existing options often require significant cost to implement or come with prohibitive cost structures. Commercially available rocket engines are an example which offer limited customization options and are extremely expensive, while customizing a liquid engine from scratch requires expertise that most schools lack.
+The STEM education market has grown substantially as awareness of skills gaps in engineering and technology has increased. Schools actively seek programs that provide authentic hands-on experience, however existing options often require significant cost to implement or come with prohibitive cost structures (some of them don't even have any educational effect at all). Commercially available rocket engines are an example which offer limited customization options and are extremely expensive, while customizing a liquid engine from scratch requires expertise that most schools lack.
 
 At the same time, a large number of aerospace enthusiasts, competition teams, and university teams are developing rockets, landers, and experimental aircraft. They currently either need to design propulsion systems from scratch or can only choose inferior solid rocket motors.
 
-If an out-of-the-box liquid propulsion system with complete documentation, control electronics, and technical support can be provided, these teams can focus their efforts on aircraft design, control algorithms, and mission planning, rather than engine development. This indicates a potential business market that can both sustain KAL's operations and fund our philanthropic mission.
+If an out-of-the-box liquid propulsion system with complete documentation, control electronics, and technical support can be provided, these teams can focus their efforts on aircraft design, control algorithms, and mission planning, rather than engine development. This indicates a potential (but unverified) business market that can both sustain KAL's operations and fund our philanthropic mission.
 
 ---
 
@@ -110,21 +109,21 @@ The funding comes from dedicated revenue streams separate from engineering opera
 
 ### Why We Need Support
 
-As a high school student organization, KAL faces resource challenges that distinguish us from university research groups or corporate R&D teams. We operate without institutional budgets, recurring appropriations or commercial revenue streams. Achieving our technical goal—developing a functional liquid rocket propulsion system with regenerative cooling and advanced control systems—requires real funding for almost every step from design to manufacturing and testing. However, traditional student fundraising such as bake sales and donation drives cannot generate the capital needed for our work. We need partners who agree with and support our goals, which creates both educational value and helps potential future engineers to grow.
+As a high school student organization, KAL faces resource challenges that distinguish us from university research groups or corporate R&D teams. We operate without institutional budgets, recurring appropriations or commercial revenue streams. Developing a functional liquid rocket propulsion system with regenerative cooling and advanced control systems requires real funding for almost every step from design to manufacturing and testing. However, traditional student fundraising such as bake sales and donation drives cannot generate the capital needed for our work. We need partners who agree with and support our goals, which creates both educational value and helps potential future engineers to grow.
 
 ### Funding Directions
 
 **Phase 1 Engine Development (\$2000)**  
-Our immediate need is completing our first gas-fed engine prototype and conducting cold flow and static fire tests. This includes component procurement ($300-500), test bench infrastructure ($1000), metal 3D printing ($300), fuel and preparation ($100), safety equipment and permits ($500). This phase will validate our engineering approach and prepare us for later development.
+Our immediate need is completing our first gas-fed engine prototype and conducting cold flow and static fire tests. This includes component procurement (\$300-500), test bench infrastructure (\$1000), metal 3D printing (\$300), fuel and preparation (\$100), safety equipment and permits (\$500). This phase will validate our engineering approach and prepare us for later development.
 
-**Phase 2 Engine optimization and control system ($2000)**
+**Phase 2 Engine optimization and control system (\$2000)**
 After completing prototype testing, we will conduct research on engine optimization and control systems. This will improve combustion efficiency while reducing manufacturing costs to some extent. The development of Advanced Control Systems requires a longer timeframe and higher demands on hardware and software integration. This work will begin in the third quarter of 2026 and continue until 2027.
 
-**Expand STEM Education ($5,000-10,000)**  
+**Expand STEM Education (\$5,000-10,000)**  
 
 We have identified Indigenous schools and underfunded districts interested in partnerships. This funding will be used for donations. Initial charitable programs would serve 2-3 schools, to help us understand how to improve this project. The charitable pillar is separated from engineering funds, and sponsors can direct support specifically to education access.
 
-**Organizational Infrastructure ($350)**  
+**Organizational Infrastructure (\$350)**  
 
 We are considering registering as a formal non-profit organization (NPO) to ensure long-term viability. We hope to ensure the organization operates longer, serving a large student population, rather than disbanding after the current members graduate.
 
