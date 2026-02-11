@@ -10,22 +10,22 @@ date: 2025-10-22
 
 ## 1. OVERVIEW
 
-Kelvin Aerospace Lab (KAL) is a non-profit student-led organization founded in September 2025 dedicated to inspiring students' interest and curiosity in the fields of engineering, providing practical engineering opportunities through liquid rocket development, and advancing STEM accessibility in underserved communities. 
+Kelvin Aerospace Lab (KAL) is a non-profit student-led organization founded in September 2025 dedicated to inspiring students' interest and curiosity in the fields of engineering and providing practical engineering opportunities through liquid rocket development. Our secondary goal is to advance STEM accessibility in underserved communities.
 
-Our initial question was: since engineering is a practice-based discipline, what is the best way to develop engineering skills? The answer is obvious: solving problems in real engineering practice. Therefore, we believe that activities like robotics competitions are not a suitable choice. While robotics competitions offer valuable experience, they operate within established frameworks with predictable outcomes. So we founded KAL. KAL’s approach is fundamentally different. Development requires students to work with theory, design, simulation, control, manufacturing, and testing, where solutions are not predetermined. The level of complexity mirrors what engineers face in industry, providing participators with irreplaceable experience in problem-solving.
+Our initial question was: since engineering is a practice-based discipline, what is the best way to develop engineering skills? The answer is obvious: solving problems in real engineering practice. Therefore, we believe that activities like robotics competitions, though rewarding in other areas, are not a suitable choice for actual experience and practice, as they operate within established frameworks with predictable outcomes. So we founded KAL. KAL’s approach is fundamentally different. Development requires students to work with theory, design, simulation, control, manufacturing, and testing, where solutions are not predetermined. The level of complexity mirrors what engineers face in industry, providing participators with irreplaceable experience in problem-solving.
 
-Since our founding in September 2025, we have established a complete organizational infrastructure including a website for public outreach, a documentation platform for technical knowledge sharing, GitHub organizations for software tools and version control, and project management systems to track progress. In project itself, we've completed computational analyses for a 200-Newton thrust engine, validated designs through ANSYS transient simulations, prototyped the scaled version of pintle injector, developed custom calculation software, and finished test bench design and propellant feed systems. 
+Since our founding in September 2025, we have established a complete organizational infrastructure including a website for public outreach, a documentation platform for technical knowledge sharing, GitHub organizations for software tools and version control, and project management systems to track progress. In the project itself, we've completed computational analyses for a 200-Newton thrust engine, validated designs through ANSYS transient simulations, prototyped the scaled version of pintle injector, developed custom calculation software, and finished test bench design and propellant feed systems. 
 
 Our operation comprises 2 pillars: Engineering innovation develops rocket propulsion systems for educational and competition use, and Social support channels resources to schools lacking STEM programs through equipment donations, funding, software tools and documentation.
 
-We are seeking sponsorship and partnership to accelerate our current development phase, and enable us to achieve our subsequent goals. By improving our technological level and expanding our charitable reach, more students will have access to STEM education, and more ideas will be realized.Clearly accessible resources are indispensable to support this sustainable model, especially for creating pathways for underrepresented communities to participate in the rapidly evolving technological field.
+We are seeking sponsorship and partnership to accelerate our current development phase and to enable us to achieve our subsequent goals. By improving our technological level and expanding our charitable reach, more students will have access to STEM education, and more ideas will be realized.Clearly accessible resources are indispensable to support this sustainable model, especially for creating pathways for underrepresented communities to participate in the rapidly evolving technological field.
 
 
 ---
 
 ## 2. VISION & MISSION
 
-We envision aerospace engineering moving beyond corporate research facilities and making it accessible to motivated students eager for real-world engineering challenges. Exposing students to the complexities and uncertainties like liquid rocket propulsion is a good approach, helping students gain an overview of thermodynamics, fluid mechanics, control systems, electronics, and mechanical design.
+We envision aerospace engineering moving beyond corporate research facilities to be accessible to motivated students eager for real-world engineering challenges. Exposing students to the complexities and uncertainties of challenges like liquid rocket propulsion is valuable in helping students gain an overview of thermodynamics, fluid mechanics, control systems, electronics, and mechanical design.
 
 Beyond being direct participants, we aspire for KAL to be a catalyst for STEM education accessibility. The rapid advancements in artificial intelligence and automation are accelerating technological change at an unprecedented pace, making early STEM education more crucial than ever.
 We believe that STEM education and resources should be an important part of the future of basic education; therefore, a portion of future revenue funds this charitable mission.
@@ -52,7 +52,7 @@ The STEM education market has grown substantially as awareness of skills gaps in
 
 At the same time, a large number of aerospace enthusiasts, competition teams, and university teams are developing rockets, landers, and experimental aircraft. They currently either need to design propulsion systems from scratch or can only choose inferior solid rocket motors.
 
-If an out-of-the-box liquid propulsion system with complete documentation, control electronics, and technical support can be provided, these teams can focus their efforts on aircraft design, control algorithms, and mission planning, rather than engine development. This indicates a potential (but unverified) business market that can both sustain KAL's operations and fund our philanthropic mission.
+If an out-of-the-box liquid propulsion system with complete documentation, control electronics, and technical support can be provided, these teams can focus their efforts on aircraft design, control algorithms, and mission planning, rather than engine development. This indicates a potential (but unverified) business market that can both sustain KAL's operations and fund its philanthropic mission.
 
 ---
 
@@ -89,7 +89,7 @@ After the test bench is completed, we plan to conduct hydrostatic testing, cold 
 
 The success of this phase is to achieve stable combustion for 30 seconds and basic thrust vector control on the testbench.
 
-**Phase 3: Advanced control systems (May - 2027)** develops thrust vector control (TVC), throttling, and hover capability for flight applications. We will implement PID control initially, then evaluate neural network-based controllers trained in simulation. Hover control requires processing multiple sensor inputs such as accelerometers, gyroscopes, thrust, propellant levels to command TVC gimbals and throttle valves. End-to-end neural networks can be trained in simulation and a virtual environment before hardware testing. This step will be the most difficult and will challenge the accuracy of the previous design.
+**Phase 3: Advanced control systems (May - 2027)** develops thrust vector control (TVC), throttling, and hover capability for flight applications. We will implement PID control initially, then evaluate neural network-based controllers trained in simulation. Hover control requires processing multiple sensor inputs such as accelerometers, gyroscopes, thrust, propellant levels to command TVC gimbals and throttle valves. End-to-end neural networks can be trained in simulation and a virtual environment before hardware testing. This step will be the most difficult and will challenge the effectiveness of the previous design.
 
 ### Tools and Methods
 
@@ -175,9 +175,9 @@ Documentation: [docs.kelvinaero.org](http://docs.kelvinaero.org)
 Email: [kelvinaero@proton.me](mailto:kelvinaero@proton.me)  
 
 
-**Document Version**: 1.1
+**Document Version**: 1.2
 
-February 4, 2026
+February 10, 2026
 
 Kelvin High School
 
